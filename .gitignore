@@ -132,3 +132,9 @@ dmypy.json
 images.npy
 Labels.csv
 .mdl_wts.hdf5
+Miniconda3-latest-Linux-x86_64.sh
+covid19_dataset.csv
+covid19_dataset_cleaned_N.csv
+covid19_dataset_cleaned_O.csv
+covid19_dataset_cleaned_S.csv
+covid19_dataset_cleaned_U.csv
